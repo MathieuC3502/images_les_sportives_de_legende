@@ -1,0 +1,6 @@
+name,sport,nationality,image
+John Doe,Soccer,USA,https://mathieuc3502.github.io/images_les_sportives_de_legende/data/images/image1.jpeg
+Jane Smith,Basketball,Canada,https://mathieuc3502.github.io/images_les_sportives_de_legende/data/images/image2.jpeg
+Tom Brown,Swimming,UK,https://mathieuc3502.github.io/images_les_sportives_de_legende/data/images/image3.jpeg
+Maria Garcia,Tennis,Spain,https://mathieuc3502.github.io/images_les_sportives_de_legende/data/images/image4.jpeg
+Liu Wei,Table Tennis,China,https://mathieuc3502.github.io/images_les_sportives_de_legende/data/images/image5.jpeg
